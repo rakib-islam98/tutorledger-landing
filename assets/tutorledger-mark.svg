@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">TutorLedger</title>
+  <rect width="512" height="512" rx="112" fill="#312E81"/>
+  <!-- Open book, with the TutorLedger TL cut into its pages. -->
+  <path d="M108 118h18V96c0-25 20-45 45-45h94c59 0 106 47 106 106v192c0 15-18 23-29 13-27-24-65-27-96-8l-36 21c-11 6-24-2-24-14V160h-22v211c0 14-17 22-28 12-8-8-18-12-28-12V118Z" fill="#fff"/>
+  <!-- The letter T. -->
+  <path d="M132 137h116v18h-47v177h-22V155h-47v-18Z" fill="#373389"/>
+  <!-- The letter L, subtly following the curve of an open page. -->
+  <path d="M220 170h25v145c26-10 54-15 82-12v29c-31-4-59 2-87 18-9 5-20-1-20-12V170Z" fill="#373389"/>
+  <circle cx="375" cy="337" r="72" fill="#22C55E"/>
+  <path d="m340 337 22 22 48-51" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+</svg>
